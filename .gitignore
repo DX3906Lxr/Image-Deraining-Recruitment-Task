@@ -1,2 +1,27 @@
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+.venv/
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 临时文件
+*.log
+*.tmp
+
+# IDE / 编辑器
+.vscode/
+.idea/
+
 
